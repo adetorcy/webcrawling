@@ -1,0 +1,8 @@
+beautifulsoup4
+html5lib
+jupyterlab
+requests
+selenium
+sqlalchemy
+tldextract
+webdriver-manager
